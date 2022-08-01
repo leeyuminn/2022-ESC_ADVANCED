@@ -7,9 +7,9 @@ println(decorations.filter {it.contains('p')})
 
 ▢ [pagoda, plastic, plant]
 
-◼ [pagoda, plastic plant] !!
+▢ [pagoda, plastic plant] !!
 
-▢ [pagoda, plastic plant, flowerpot]
+◼ [pagoda, plastic plant, flowerpot]
 
 ▢ [rock, alligator]
 
